@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm -f fontcache.zip
+zip -r fontcache.zip * .fonts .local .fontconfig
+
